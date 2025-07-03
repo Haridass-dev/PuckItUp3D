@@ -160,7 +160,11 @@ PlayerSettings:
   androidMaxAspectRatio: 2.1
   androidMinAspectRatio: 1
   applicationIdentifier:
+ HEAD
     Android: com.DefaultCompany.PuckItUp3D
+
+    Standalone: com.DefaultCompany.PuckItUp3D
+ 5fce9e06b970944a7196be11d486a0feaee33b58
   buildNumber:
     Bratwurst: 0
     Standalone: 0
